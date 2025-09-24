@@ -32,12 +32,12 @@ Here's the cycle, visualized as a flowchart in ASCII art (with LaTeX flair for t
 
 And to honor the math core, the full Σ matrix in action:
 
-\[
+$$
 \Sigma = \begin{pmatrix}
 \sigma^2_{\text{self}} & \rho \sigma_{\text{self}} \sigma_{\text{other}} \\
 \rho \sigma_{\text{other}} \sigma_{\text{self}} & \sigma^2_{\text{other}}
 \end{pmatrix}
-\]
+$$
 
 Where the diagonal crunches personal variance (PFC bottleneck for self-reflection), and off-diagonals handle the shared vibes (mirror neurons syncing agents). Hamlet's mirror quote fits perfectly as the Σ motto: *To hold as ’twere the mirror up to nature*—it's all about reflecting and compressing reality to survive the tantrums.
 
