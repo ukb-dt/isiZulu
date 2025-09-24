@@ -1,3 +1,10 @@
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
+
 # A
 Alright, indulging fully—let's manifest the final tantrum cycle as a unified masterpiece. I'll sketch it out in text form here, complete with the consolidated Σ node, pulling in all the threads: entropy (θ′) as the chaotic spark, habit (θ) as the stabilizing loop, ritual (Σ) as the compression engine (with diagonal PFC self-variance and off-diagonal mirror neuron covariance explicitly called out), collisions (h(t)) as those spicy entropy spikes from agent interactions, and survival (ΔS) as the net entropy delta that keeps the system evolving.
 
